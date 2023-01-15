@@ -35,8 +35,8 @@ Quotable is a full-stack web app, including a developer API, that provides rando
 `GET /api/quotes/count` - returns the amount of genres and quotes. Format:
 ```json
 {
-    quotes: 75967,
-    genres: 118
+    "quotes": 75967,
+    "genres": 118
 }
 ```
 
