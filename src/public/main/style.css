@@ -1,0 +1,15 @@
+.serif-font {
+    font-family: "Playfair Display", "New York", "Times New Roman", serif !important;
+}
+
+main {
+    height: 90vh;
+}
+
+body {
+    background-image: url("https://picsum.photos/1920/1080/?blur");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
