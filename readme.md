@@ -46,4 +46,5 @@ Quotable is a full-stack web app, including a developer API, that provides rando
 Clone the repository, open the folder with a terminal, and execute the command `npm start`. Navigate to `localhost:3000` in your web browser to use the app. Enjoy!
 
 ## 🤗 Credits
-Inspirational quote file from [akhiltak/inspirational-quotes](https://github.com/akhiltak/inspirational-quotes). Copyright (c) 2016 Akhil Tak. [License](https://github.com/akhiltak/inspirational-quotes/blob/master/LICENSE)
+Inspirational quote file from [akhiltak/inspirational-quotes](https://github.com/akhiltak/inspirational-quotes). Copyright (c) 2016 Akhil Tak. [License](https://github.com/akhiltak/inspirational-quotes/blob/master/LICENSE)  
+Images from [Lorem Picsum](https://picsum.photos)
